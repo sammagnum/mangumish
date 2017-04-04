@@ -1,2 +1,0 @@
-# mangumish
-Mangum Site
